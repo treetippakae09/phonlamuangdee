@@ -6,7 +6,7 @@
  *   หาได้จาก Apps Script → Deploy → Manage deployments → Web app URL
  */
 window.APP_CONFIG = {
-  API_URL: 'https://script.google.com/macros/s/ใส่_DEPLOYMENT_ID_ที่นี่/exec',
+  API_URL: 'https://script.google.com/macros/s/AKfycbwuB3yrDrmxbkVnTbwei8zND18rEtJm1oSJIuFhjcJhChkozUuquuj5o0tYVbfEZM3uyg/exec',
   APP_NAME: 'พลเมืองดี',
   REQUEST_TIMEOUT_MS: 45000
 };
